@@ -1,0 +1,49 @@
+.content-legend{
+    border-radius: 10px;
+    padding: 20px;
+    width: 90%;
+    height: 40vh;
+    background-color: rgb(12, 12, 12);
+    position: absolute;
+    margin-top: 55%;
+    margin-left: 60px;
+}
+
+
+.title-legend{
+    font-family: gotham bold;
+    color: aliceblue;
+    font-size: 1.5rem;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+
+.three-spaces{
+    margin-top: 50px;
+    margin-left: 20px;
+    justify-content: space-between;
+    align-items: center;
+    display: inline-flex;
+}
+
+.span{
+    font-family: gotham bold;
+    font-size: 18px;
+    color: aliceblue;
+}
+
+.text-legend{
+    font-family: gotham medium;
+    font-size: 14px;
+    color: aliceblue;
+    margin-top: 30px;
+    width: 300px;
+}
+
+.one-card{
+    margin-right: 75px;
+}
+.two-card{
+    margin-right: 75px;
+}
